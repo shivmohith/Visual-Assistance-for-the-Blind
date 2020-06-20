@@ -33,7 +33,11 @@ surroundings and he/she will be provided with an answer.
 - Image_Captioning directory - Contains the files for training and testing the image captioning model. This directory is also needed while running the real time code.
 - VQA - Contains 2 directories for traning and testing MLP and CNN_LSTM based VQA models. Under each directory you will find main.py which contains both the training and testing code.
 **Note: It is advised to run the VQA codes in Google Colab to avoid unnecessary errors.**
-- There are 3 python files inside the Source Code directory which is for real time demo. 
+- There are 3 python files inside the root directory which is for real time demo.
+    - [conversions.py](https://github.com/Shivmohith/Visual-Assistance-for-the-Blind/blob/master/conversions.py): Contains the code for Speech to Text and Text to Speech components
+    - [models.py](https://github.com/Shivmohith/Visual-Assistance-for-the-Blind/blob/master/model.py): Contains the Image captioning and VQA models
+    - [product.py](https://github.com/Shivmohith/Visual-Assistance-for-the-Blind/blob/master/product.py): Contains the real time code using webcam
+
 
 ### To train and test the image captioning do the following steps
 1. Download the train and test dataset (images and annotations 2014) from "http://cocodataset.org/#download"
@@ -65,5 +69,5 @@ surroundings and he/she will be provided with an answer.
 
 ### To test the code in real time with webcam
 1. Install the requirements using the command "pip install -r requirements.txt" present in the root directory
-2. Run product.py code
+2. Run [product.py](https://github.com/Shivmohith/Visual-Assistance-for-the-Blind/blob/master/product.py) code
  
