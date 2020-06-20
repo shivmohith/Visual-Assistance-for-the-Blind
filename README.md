@@ -71,3 +71,45 @@ surroundings and he/she will be provided with an answer.
 1. Install the requirements using the command "pip install -r requirements.txt" present in the root directory
 2. Run [product.py](https://github.com/Shivmohith/Visual-Assistance-for-the-Blind/blob/master/product.py) code
  
+## Bibliography
+- @article{DBLP:journals/corr/XuBKCCSZB15,
+  author    = {Kelvin Xu and
+               Jimmy Ba and
+               Ryan Kiros and
+               Kyunghyun Cho and
+               Aaron C. Courville and
+               Ruslan Salakhutdinov and
+               Richard S. Zemel and
+               Yoshua Bengio},
+  title     = {Show, Attend and Tell: Neural Image Caption Generation with Visual
+               Attention},
+  journal   = {CoRR},
+  volume    = {abs/1502.03044},
+  year      = {2015},
+  url       = {http://arxiv.org/abs/1502.03044},
+  archivePrefix = {arXiv},
+  eprint    = {1502.03044},
+  timestamp = {Mon, 13 Aug 2018 16:47:52 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/XuBKCCSZB15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+- @article{DBLP:journals/corr/AntolALMBZP15,
+  author    = {Stanislaw Antol and
+               Aishwarya Agrawal and
+               Jiasen Lu and
+               Margaret Mitchell and
+               Dhruv Batra and
+               C. Lawrence Zitnick and
+               Devi Parikh},
+  title     = {{VQA:} Visual Question Answering},
+  journal   = {CoRR},
+  volume    = {abs/1505.00468},
+  year      = {2015},
+  url       = {http://arxiv.org/abs/1505.00468},
+  archivePrefix = {arXiv},
+  eprint    = {1505.00468},
+  timestamp = {Mon, 13 Aug 2018 16:48:30 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/AntolALMBZP15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
