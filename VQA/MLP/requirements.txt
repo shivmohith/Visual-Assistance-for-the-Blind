@@ -1,0 +1,14 @@
+spacy
+tensorflow==2.2.0
+Keras==2.3.1
+random
+pickle
+gc
+operator
+collections
+itertools
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
