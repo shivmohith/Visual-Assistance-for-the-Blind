@@ -2,7 +2,7 @@ speech_recognition==3.8.1
 gtts==2.1.1
 playsound==1.2.2
 Keras==2.0.0
-tensorflow==2.1.0
+tensorflow==2.9.3
 Pillow>=6.2.2
 opencv-contrib-python==3.4.1.15
 pickle-mixin==1.0.2
